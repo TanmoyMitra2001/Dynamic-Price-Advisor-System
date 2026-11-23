@@ -106,7 +106,7 @@ streamlit run app.py
 - **Overview:** summary cards, demand and suggested-change charts, top suggestions table
 - **Export:** download the filtered results as CSV
 
-Live app: _add your Streamlit Community Cloud link here_
+Live app: https://dynamic-price-advisor-system-hsub9ukedlubmr9amsywkm.streamlit.app
 
 ## Limitations
 
